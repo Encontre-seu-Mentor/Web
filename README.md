@@ -1,8 +1,5 @@
 <img src="static/about.gif" />
 
-## Available Scripts
-
-<img src="static/about.gif" />
 Projeto open source, para ligar aqueles que querem aprender com aqueles que querem ajudar a comunidade compartilhando conhecimento.
 
 
